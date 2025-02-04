@@ -19,6 +19,10 @@ section {
     color: #d40b2e;
 }
 
+.title-new{
+    text-align: left;
+}
+
 section.grey-bg-first {
     background-color: #f3f4f5;
 }
