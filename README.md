@@ -1,4 +1,6 @@
 [home](./assets/img/Tom.jpg)
+![amara](https://github.com/user-attachments/assets/429c139c-2181-4c31-8fc5-80cb1305e552)
+
 # Project Title
 
 project: University Website
