@@ -1,6 +1,3 @@
-[home](./assets/img/Tom.jpg)
-![amara](https://github.com/user-attachments/assets/429c139c-2181-4c31-8fc5-80cb1305e552)
-
 # Project Title
 
 project: University Website
@@ -31,4 +28,13 @@ which mainly provides a map location of the university and a resume for applying
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# Some Images of the Projects
+![Screenshot (3)](https://github.com/user-attachments/assets/2e4ce2e3-f042-43ff-aeea-faa768874455)
+![Screenshot (5)](https://github.com/user-attachments/assets/93df9e83-0c4b-4351-8c22-712514f53092)
+![Screenshot (4)](https://github.com/user-attachments/assets/afb960e3-140a-47dc-a229-2bd596cfc279)
+![Screenshot (6)](https://github.com/user-attachments/assets/777a4ffb-9508-4efd-acd7-3f3df6d3c2d4)
+
+
+
 
